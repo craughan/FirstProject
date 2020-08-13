@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace FirstConsoleProgram
+namespace VariablesOperatorsExpressions
 {
 	class Program
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World! Uno");
+			Console.WriteLine("Hello World! Zwei");
 			Console.ReadLine();
 		}
 	}
