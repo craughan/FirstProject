@@ -5,11 +5,13 @@ VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstConsoleProgram", "FirstConsoleProgram\FirstConsoleProgram.csproj", "{8D08CAAA-66D6-46E2-AA17-1AD87B1196A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesOperatorsExpressions", "VariablesOperatorsExpressions\VariablesOperatorsExpressions.csproj", "{4B872255-A273-4C8B-AD45-809F03C96E1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablesOperatorsExpressions", "VariablesOperatorsExpressions\VariablesOperatorsExpressions.csproj", "{4B872255-A273-4C8B-AD45-809F03C96E1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfStatementsExercise", "IfStatementsExercise\IfStatementsExercise.csproj", "{2172AFE2-5EE2-452F-B393-7397EE84B61F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfStatementsExercise", "IfStatementsExercise\IfStatementsExercise.csproj", "{2172AFE2-5EE2-452F-B393-7397EE84B61F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsExercise", "LoopsExercise\LoopsExercise.csproj", "{CDE22B95-68E3-4046-9BBC-3CC34F341042}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopsExercise", "LoopsExercise\LoopsExercise.csproj", "{CDE22B95-68E3-4046-9BBC-3CC34F341042}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionsExercise", "FunctionsExercise\FunctionsExercise.csproj", "{DDCDFC80-EB4E-4E0D-AF1F-5A9D7FDA0754}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{CDE22B95-68E3-4046-9BBC-3CC34F341042}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDE22B95-68E3-4046-9BBC-3CC34F341042}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDE22B95-68E3-4046-9BBC-3CC34F341042}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDCDFC80-EB4E-4E0D-AF1F-5A9D7FDA0754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDCDFC80-EB4E-4E0D-AF1F-5A9D7FDA0754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDCDFC80-EB4E-4E0D-AF1F-5A9D7FDA0754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDCDFC80-EB4E-4E0D-AF1F-5A9D7FDA0754}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
