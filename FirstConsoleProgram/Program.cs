@@ -6,7 +6,7 @@ namespace FirstConsoleProgram
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World! Uno");
+			Console.WriteLine("Hello World");
 			Console.ReadLine();
 		}
 	}
