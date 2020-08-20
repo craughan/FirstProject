@@ -6,16 +6,8 @@ namespace ClassesExercise
 {
 	class Circle
 	{
-		public Vector2 position;
-		public float radius;
-
-		public Circle(float posX, float posY, float rad)
-		{
-			position = new Vector2(0, 0);
-			position.x = posX;
-			position.y = posY;
-			radius = rad;
-		}
+		public Vector2 position { get; set; }
+		public float radius { get; set; }
 
 		public bool ContainsPoint(Vector2 point)
 		{
