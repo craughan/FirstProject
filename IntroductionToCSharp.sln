@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionsExercise", "Functi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuessTheNumber", "GuessTheNumber\GuessTheNumber.csproj", "{E4A15E05-ED2F-4CBF-AD40-58C5D236D121}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesExercise", "ClassesExercise\ClassesExercise.csproj", "{8B7CBFE7-AC7A-4DF4-A6C3-2C64CCAF6460}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{E4A15E05-ED2F-4CBF-AD40-58C5D236D121}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4A15E05-ED2F-4CBF-AD40-58C5D236D121}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4A15E05-ED2F-4CBF-AD40-58C5D236D121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B7CBFE7-AC7A-4DF4-A6C3-2C64CCAF6460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B7CBFE7-AC7A-4DF4-A6C3-2C64CCAF6460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B7CBFE7-AC7A-4DF4-A6C3-2C64CCAF6460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B7CBFE7-AC7A-4DF4-A6C3-2C64CCAF6460}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
